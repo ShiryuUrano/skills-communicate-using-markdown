@@ -1,6 +1,9 @@
-# This is an `<h1>` header, which is the largest
+# Communicate using Markdown
 
-## This is an `<h2>` header
+Welcome to "Communicate using Markdown"! 👋
 
-###### This is an `<h6>` header, which is the smallest
+## Step 1: Add headers
+
+This is my retry of Step 1
+
 
